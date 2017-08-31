@@ -1,4 +1,4 @@
-# Flash-N-Cloze-Cards-
+# Flash-N-Cloze-Cards
 Create the backend for a basic flashcard application.  
 The backend will essentially constitute an API that allows users to create two types of flashcards.  
 
